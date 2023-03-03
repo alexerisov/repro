@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowSyntheticDefaultImports": true,
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "isolatedModules": true,
+    "baseUrl": ".",
+    "paths": {
+      "~public/*": ["public/*"],
+      "~types/*": ["src/types/*"],
+      "~components/*": ["src/components/*"],
+      "~utils/*": ["src/utils/*"],
+      "~styles/*": ["src/styles/*"],
+      "~tests/*": ["__tests__/*"],
+      "~shared/*": ["src/shared/*"],
+      "~api/*": ["src/api/*"],
+      "@src/*": ["src/*"],
+      "~nextjs-effector": ["src/shared/lib/nextjs-effector"],
+      "~nextjs-effector/*": ["src/shared/lib/nextjs-effector/*"]
+    }
+  },
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
+  "exclude": ["node_modules"]
+}
