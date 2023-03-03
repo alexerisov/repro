@@ -1,0 +1,292 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Layout Desktop screen 1`] = `
+<DocumentFragment>
+  <div
+    class="w-screen h-screen grid grid-cols-1 lg:grid-cols-layout"
+  >
+    <nav
+      class="MuiPaper-root MuiPaper-elevation MuiPaper-elevation2 flex overflow-hidden z-20 css-xf89un-MuiPaper-root"
+    >
+      <div
+        class=" h-screen flex flex-col w-[236px] transition-all"
+        data-testid="sidebar"
+      >
+        <div
+          class="pl-6 h-24 flex items-center justify-start"
+        >
+          <div
+            class="flex gap-2"
+          >
+            <svg
+              class="w-[61px] h-[58px] transition-all"
+            />
+            <svg />
+          </div>
+        </div>
+        <div
+          class="MuiTabs-root MuiTabs-vertical css-7fc9od-MuiTabs-root"
+        >
+          <div
+            class="MuiTabs-hideScrollbar css-agdkjh-MuiTabs-scrollbarSize"
+            style="width: 99px; height: 99px; position: absolute; top: -9999px; overflow: scroll;"
+          />
+          <div
+            class="MuiTabs-scroller MuiTabs-hideScrollbar MuiTabs-scrollableY css-1r5ppdd-MuiTabs-scroller"
+            style="margin-right: 0px;"
+          >
+            <div
+              aria-label="sidebar-tabs"
+              aria-orientation="vertical"
+              class="MuiTabs-flexContainer MuiTabs-flexContainerVertical css-1rvq9qt-MuiTabs-flexContainer"
+              role="tablist"
+            >
+              <a
+                class="flex"
+                href="/"
+              >
+                <span
+                  aria-selected="false"
+                  class="MuiButtonBase-root MuiTab-root MuiTab-labelIcon MuiTab-textColorPrimary min-w-0 css-1k4m0gq-MuiButtonBase-root-MuiTab-root"
+                  role="tab"
+                  tabindex="-1"
+                >
+                  <svg
+                    class="MuiTab-iconWrapper"
+                  />
+                  <span
+                    class="max-w-[15ch] text-ellipsis overflow-hidden flex-1 text-left"
+                  >
+                    Главная
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </span>
+              </a>
+              <a
+                class="flex"
+                href="/devices"
+              >
+                <span
+                  aria-selected="false"
+                  class="MuiButtonBase-root MuiTab-root MuiTab-labelIcon MuiTab-textColorPrimary min-w-0 css-1k4m0gq-MuiButtonBase-root-MuiTab-root"
+                  role="tab"
+                  tabindex="-1"
+                >
+                  <svg
+                    class="MuiTab-iconWrapper"
+                  />
+                  <span
+                    class="max-w-[15ch] text-ellipsis overflow-hidden flex-1 text-left"
+                  >
+                    Метеоустройства
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </span>
+              </a>
+              <a
+                class="flex"
+                href="/monitoring"
+              >
+                <span
+                  aria-selected="false"
+                  class="MuiButtonBase-root MuiTab-root MuiTab-labelIcon MuiTab-textColorPrimary min-w-0 css-1k4m0gq-MuiButtonBase-root-MuiTab-root"
+                  role="tab"
+                  tabindex="-1"
+                >
+                  <svg
+                    class="MuiTab-iconWrapper"
+                  />
+                  <span
+                    class="max-w-[15ch] text-ellipsis overflow-hidden flex-1 text-left"
+                  >
+                    Мониторинг
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </span>
+              </a>
+              <a
+                class="flex"
+                href="/reports"
+              >
+                <span
+                  aria-selected="false"
+                  class="MuiButtonBase-root MuiTab-root MuiTab-labelIcon MuiTab-textColorPrimary min-w-0 css-1k4m0gq-MuiButtonBase-root-MuiTab-root"
+                  role="tab"
+                  tabindex="-1"
+                >
+                  <svg
+                    class="MuiTab-iconWrapper"
+                  />
+                  <span
+                    class="max-w-[15ch] text-ellipsis overflow-hidden flex-1 text-left"
+                  >
+                    Отчеты
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </span>
+              </a>
+              <a
+                class="flex"
+                href="/metrics"
+              >
+                <span
+                  aria-selected="false"
+                  class="MuiButtonBase-root MuiTab-root MuiTab-labelIcon MuiTab-textColorPrimary min-w-0 css-1k4m0gq-MuiButtonBase-root-MuiTab-root"
+                  role="tab"
+                  tabindex="-1"
+                >
+                  <svg
+                    class="MuiTab-iconWrapper"
+                  />
+                  <span
+                    class="max-w-[15ch] text-ellipsis overflow-hidden flex-1 text-left"
+                  >
+                    Метрики
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </span>
+              </a>
+              <a
+                class="flex"
+                href="/news"
+              >
+                <span
+                  aria-selected="false"
+                  class="MuiButtonBase-root MuiTab-root MuiTab-labelIcon MuiTab-textColorPrimary min-w-0 css-1k4m0gq-MuiButtonBase-root-MuiTab-root"
+                  role="tab"
+                  tabindex="-1"
+                >
+                  <svg
+                    class="MuiTab-iconWrapper"
+                  />
+                  <span
+                    class="max-w-[15ch] text-ellipsis overflow-hidden flex-1 text-left"
+                  >
+                    Новости и док-ты
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </span>
+              </a>
+              <a
+                class="flex"
+                href="/users"
+              >
+                <span
+                  aria-selected="false"
+                  class="MuiButtonBase-root MuiTab-root MuiTab-labelIcon MuiTab-textColorPrimary min-w-0 css-1k4m0gq-MuiButtonBase-root-MuiTab-root"
+                  role="tab"
+                  tabindex="-1"
+                >
+                  <svg
+                    class="MuiTab-iconWrapper"
+                  />
+                  <span
+                    class="max-w-[15ch] text-ellipsis overflow-hidden flex-1 text-left"
+                  >
+                    Учетные записи
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                  />
+                </span>
+              </a>
+            </div>
+            <span
+              class="MuiTabs-indicator css-1cwhf74-MuiTabs-indicator"
+              style="top: 0px; height: 0px;"
+            />
+          </div>
+        </div>
+        <div
+          class="px-4 py-6 mb-0 h-[236px] mt-auto relative"
+        >
+          <span
+            class="font-normal mb-2 text-md"
+          >
+            Демо-версия
+          </span>
+          <p
+            class="text-gray-400 text-sm mb-4"
+          >
+            Вы находитесь в демо-версии,она умеет всё, что и полная версия программы, но только не даёт возможности сохранять внесённые изменения.
+          </p>
+          <button
+            class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium border-gray-400 text-primaryText css-10erssm-MuiButtonBase-root-MuiButton-root"
+            tabindex="0"
+            type="button"
+          >
+            Подробнее
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+          <div
+            class="h-full w-full bg-primaryBg absolute top-0 left-0 z-[-5]"
+            data-testid="BackgroundLines"
+          >
+            <img
+              alt="background-gray-lines-image"
+              class="object-cover opacity-20"
+              data-nimg="fill"
+              decoding="async"
+              loading="lazy"
+              sizes="100%"
+              src="/_next/image?url=%2Fimages%2Fbg-lines.png&w=3840&q=75"
+              srcset="/_next/image?url=%2Fimages%2Fbg-lines.png&w=16&q=75 16w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=32&q=75 32w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=48&q=75 48w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=64&q=75 64w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=96&q=75 96w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=128&q=75 128w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=256&q=75 256w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=384&q=75 384w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=640&q=75 640w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=750&q=75 750w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=828&q=75 828w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=1080&q=75 1080w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=1200&q=75 1200w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=1920&q=75 1920w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=2048&q=75 2048w, /_next/image?url=%2Fimages%2Fbg-lines.png&w=3840&q=75 3840w"
+              style="position: absolute; height: 100%; width: 100%; left: 0px; top: 0px; right: 0px; bottom: 0px; color: transparent;"
+            />
+          </div>
+        </div>
+        <div
+          class="pl-4 mt-0 transition-all flex items-center h-14 mb-0 "
+        >
+          <button
+            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1b8yf94-MuiButtonBase-root-MuiIconButton-root"
+            data-testid="toggle-sidebar"
+            tabindex="0"
+            type="button"
+          >
+            <svg
+              class="transition-all false"
+            />
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+      </div>
+    </nav>
+    <div
+      class="flex flex-col relative"
+    >
+      Desktop content
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Layout Mobile screen 1`] = `
+<DocumentFragment>
+  <div
+    class="w-screen h-screen grid grid-cols-1 lg:grid-cols-layout"
+  >
+    <div
+      class="flex flex-col relative"
+    >
+      Mobile content
+    </div>
+  </div>
+</DocumentFragment>
+`;

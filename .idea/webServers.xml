@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="572362dd-60d5-49a6-b0a1-4b4d683386dc" name="web-dev">
+        <fileTransfer rootFolder="/home/robouser" accessType="SFTP" host="web-dev" port="22" sshConfigId="973b1e7e-74f9-4141-bf7f-4e6867d65c15" sshConfig="web-dev" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
